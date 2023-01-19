@@ -16,7 +16,7 @@ window.config = {
   AUTH_URL: 'https://auth.{{hostname}}',
   MINIO_URL: 'https://minio.{{hostname}}',
   COUNTRY_CONFIG_URL: 'https://countryconfig.{{hostname}}',
-  COUNTRY: 'FAR',
+  COUNTRY: 'IND',
   AVAILABLE_LANGUAGES_SELECT: 'en:English,fr:Français',
   LANGUAGES: 'en,fr',
   SENTRY:

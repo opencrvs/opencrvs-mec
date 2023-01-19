@@ -17,7 +17,7 @@ window.config = {
   AUTH_URL: 'http://localhost:4040',
   MINIO_URL: 'http://localhost:3535',
   COUNTRY_CONFIG_URL: 'http://localhost:3040',
-  COUNTRY: 'FAR',
+  COUNTRY: 'IND',
   AVAILABLE_LANGUAGES_SELECT: 'en:English,fr:Français',
   LANGUAGES: 'en,fr',
   SENTRY:

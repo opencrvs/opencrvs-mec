@@ -12,7 +12,7 @@
 window.config = {
   AUTH_API_URL: 'http://localhost:4040/',
   CONFIG_API_URL: 'http://localhost:2021',
-  COUNTRY: 'FAR',
+  COUNTRY: 'IND',
   LANGUAGES: 'en,fr',
   AVAILABLE_LANGUAGES_SELECT: 'en:English,fr:Français',
   CLIENT_APP_URL: 'http://localhost:3000/',
