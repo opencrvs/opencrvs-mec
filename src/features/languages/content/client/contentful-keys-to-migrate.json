@@ -338,6 +338,8 @@
   "navigation.informantNotification",
   "navigation.outbox",
   "navigation.readyToIssue",
+  "misc.nidCallback.authenticatingNid",
+  "misc.nidCallback.failedToAuthenticateNid",
   "misc.notif.updatePINSuccess",
   "regHome.outbox.statusCertifying",
   "regHome.outbox.statusIssuing",
