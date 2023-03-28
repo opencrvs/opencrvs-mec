@@ -308,7 +308,6 @@
   "integrations.type.webhook",
   "integrations.type.healthSystem",
   "integrations.eventNotificationDescription",
-  "integrations.nationalidAlertDescription",
   "integrations.recordSearchDescription",
   "integrations.clientId",
   "integrations.clientSecret",
