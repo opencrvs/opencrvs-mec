@@ -833,7 +833,6 @@
     "integrations.type.webhook": "Label for web hook",
     "integrations.type.healthSystem": "Label for health system type",
     "integrations.eventNotificationDescription": "Label for  health notification description",
-    "integrations.nationalidAlertDescription": "Label for  national id description",
     "integrations.recordSearchDescription": "Label for  record search description",
     "integrations.clientId": "Label for client Id",
     "integrations.clientSecret": "Label for client secret",
