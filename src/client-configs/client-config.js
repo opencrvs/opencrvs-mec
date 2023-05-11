@@ -15,7 +15,7 @@ window.config = {
   CONFIG_API_URL: 'http://localhost:2021',
   LOGIN_URL: 'http://localhost:3020',
   AUTH_URL: 'http://localhost:4040',
-  MINIO_URL: 'http://localhost:3535',
+  MINIO_BUCKET: 'ocrvs',
   COUNTRY_CONFIG_URL: 'http://localhost:3040',
   COUNTRY: 'IND',
   AVAILABLE_LANGUAGES_SELECT: 'en:English,fr:Français',
