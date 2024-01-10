@@ -88,6 +88,8 @@ services:
     ports:
       - '8085:8080'
     deploy:
+      labels:
+        - 'traefik.enable=false'
       replicas: 1
     networks:
       - overlay_net
