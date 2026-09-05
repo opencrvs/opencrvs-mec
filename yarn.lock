@@ -2800,14 +2800,14 @@
     chalk "*"
 
 "@types/code@^4.0.3":
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/@types/code/-/code-4.0.6.tgz#531819ffe2f912fd6b6014a85119d9839b501d8f"
-  integrity sha512-sgZtDIS22MwVDYhWaHWYCm3MWdfMFtBxUPHLl0EJq6nxayz/J3WVuXaewLSqINxWyRgvzhYMvjf1h8K/jj+1OA==
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@types/code/-/code-4.0.8.tgz#ff35ba09d29332fd6ee281561c0788336627dc65"
+  integrity sha512-eOxey9CsajWlP0h66P2ZaGHoGx0CpjNHlgirEFctZYDQ3frlIoHp/yV5Nq8cQMjKNvs5hySCE2JtFEvhXpOj6g==
 
 "@types/csv2json@^1.4.0":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@types/csv2json/-/csv2json-1.4.2.tgz#85cecacd75ab5e9e8861bf5c134a9dfe526ed5e3"
-  integrity sha512-yLN7biRYCmhY/8HrlSkY2kCzYQkoWW4J6AxtuTWuyixM5h57zYhZpc7n0Fx98LTtOl9/mRM26fsVfqjZAzH27A==
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@types/csv2json/-/csv2json-1.4.5.tgz#b037221439878f22944faaa7361f157d81052dfd"
+  integrity sha512-152IxknP/Mp2FJAjppaNIwNr2ufWXtVcbNgU+2UTcawSr2FWnqhaTk2sIVOmlntFAyJrGdNACs3AzKz5gIpNOA==
   dependencies:
     "@types/pumpify" "*"
 
