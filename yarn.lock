@@ -2909,9 +2909,9 @@
     "@types/node" "*"
 
 "@types/iconv@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/iconv/-/iconv-3.0.1.tgz#88931a83d8a1e9575e493c48f737491326cd5e0f"
-  integrity sha512-VHYt1HZZCAJq/Odxut9eIKfRY8qQpDhNVhWJdk3sJXgvxeAeoUse0uIeZBlcC5O0tT2NBuqlW/4jd7e5wiAfKA==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/iconv/-/iconv-3.0.4.tgz#733dc80bb3ea946db069f177b47db65672b0948c"
+  integrity sha512-bk+twLWL20lSbLw65vMUK1oy9dVEDMytQczaxqQs6p1MjY0ogiOidSLPsbfyQ04HxN9spZ9FPYkXZuCyw5C7Nw==
   dependencies:
     "@types/node" "*"
 
@@ -3027,9 +3027,11 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "18.11.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.6.tgz#4f91b0b30d405fdf76e0029b11ef5df6a0da4261"
-  integrity sha512-j3CEDa2vd96K0AXF8Wur7UucACvnjkk8hYyQAHhUNciabZLDl9nfAEVUSwmh245OOZV15bRA3Y590Gi5jUcDJg==
+  version "22.20.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.20.3.tgz#f77d48b4cb336b4e6dc44850ddb6da69caade396"
+  integrity sha512-DZmzkmwHzXrLPAXPyKNDzlIwMMUZCVacoD25ywdy5YTKGbOx/2ld+Q38Im2zJ0vBuZP5Prd3VZutKZyXwkOS8A==
+  dependencies:
+    undici-types "~6.21.0"
 
 "@types/node@^10.12.5":
   version "10.17.60"
@@ -9762,6 +9764,11 @@ underscore@>1.4.4:
   version "1.13.6"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.6.tgz#04786a1f589dc6c09f761fc5f45b89e935136441"
   integrity sha512-+A5Sja4HP1M08MaXya7p5LvjuM7K6q/2EaC0+iovj/wOcMsTzMvDFbasi/oSapiwOlt252IqsKqPjCl7huKS0A==
+
+undici-types@~6.21.0:
+  version "6.21.0"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.21.0.tgz#691d00af3909be93a7faa13be61b3a5b50ef12cb"
+  integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
 
 undici@^5.10.0:
   version "5.19.1"
